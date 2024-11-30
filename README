@@ -1,0 +1,33 @@
+# Machine Learning Notebooks
+
+This repository contains machine learning notebooks for competitions hosted on the [Kaggle](https://www.kaggle.com/) platform. It serves as a collection of projects showcasing various machine learning approaches, including Artificial Neural Networks (ANN) and CatBoostClassifiers.
+
+## Current Projects
+
+### **S4E11 Mental Health Competition**
+This project focuses on the **Playground Series - Season 4, Episode 11** competition, which explores mental health data. The goal of this competition is to analyze and classify data related to mental health, drawing insights and developing effective predictive models.
+
+#### Models
+1. **Model 1 (ANN)**:  
+   - Implements an Artificial Neural Network for classification tasks.  
+   - Designed to capture patterns in the provided dataset using deep learning techniques.
+
+2. **Model 2 (CatBoostClassifier)**:  
+   - Utilizes the CatBoost library for gradient boosting on decision trees.  
+   - Optimized for handling categorical features and class imbalance effectively.
+
+#### Dataset Citation
+The dataset used for this project is from the following Kaggle competition:  
+**Walter Reade and Elizabeth Park. Exploring Mental Health Data.**  
+Link: [Kaggle Competition Page](https://kaggle.com/competitions/playground-series-s4e11)  
+2024, Kaggle.
+
+## Repository Structure
+- **`model_1_kaggle_submission.ipynb`**: Notebook implementing the ANN model.
+- **`model_2_kaggle_submission.ipynb`**: Notebook implementing the CatBoostClassifier model.
+
+## Getting Started
+To get started with the notebooks:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/tomlas32/Machine_Learning_Notebooks.git
