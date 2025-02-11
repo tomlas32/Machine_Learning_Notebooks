@@ -8,13 +8,9 @@ This repository contains machine learning notebooks for competitions hosted on t
 This project focuses on the **Playground Series - Season 4, Episode 11** competition, which explores mental health data. The goal of this competition is to analyze and classify data related to mental health, drawing insights and developing effective predictive models.
 
 #### Models
-1. **Model 1 (ANN)**:  
+1. **Model 1 (CatBoostClassifier)**:  
    - Implements an Artificial Neural Network for classification tasks.  
    - Designed to capture patterns in the provided dataset using deep learning techniques.
-
-2. **Model 2 (CatBoostClassifier)**:  
-   - Utilizes the CatBoost library for gradient boosting on decision trees.  
-   - Optimized for handling categorical features and class imbalance effectively.
 
 #### Dataset Citation
 The dataset used for this project is from the following Kaggle competition:  
@@ -23,8 +19,7 @@ Link: [Kaggle Competition Page](https://kaggle.com/competitions/playground-serie
 2024, Kaggle.
 
 ## Repository Structure
-- **`model_1_kaggle_submission.ipynb`**: Notebook implementing the ANN model.
-- **`model_2_kaggle_submission.ipynb`**: Notebook implementing the CatBoostClassifier model.
+- **`kaggle_competition_s4_e11_model1.ipynb`**: Notebook implementing the CatBoostClassifier model.
 
 ## Getting Started
 To get started with the notebooks:
